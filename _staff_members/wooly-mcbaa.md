@@ -1,4 +1,4 @@
 ---
-name: Wooly McBaa
-image: /images/wooly.jpg
+name: Tom Wu
+image: /images/tom.jpg
 ---
