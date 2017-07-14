@@ -1,9 +1,9 @@
 ---
-title: We've raised $2000!
-author_staff_member: wooly-mcbaa
-date: 2016-11-01
+title: We have started planning for 2017 trip!
+author_staff_member: Tom Wu
+date: 2017-07-13
 ---
 
-Thank you do everyone who has made contributions. This money is going towards reaching sheep in paddocks far and wide. The revolution has begun.
+We have started planning our 2017 trip, we all excited about upcoming trip.
 
-![Grass](https://source.unsplash.com/PY16MUlM6hI/2000x1334)
+![Grass](https://source.unsplash.com/VwFR0ruXR3g/2000x1334)
