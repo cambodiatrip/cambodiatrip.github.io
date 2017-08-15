@@ -3,12 +3,13 @@ layout: default
 title: Cambodia Mission 2017
 header_background_image: 'https://source.unsplash.com/8nO2P6U2AXE/2000x1322?a=.png'
 newsletter_background_image: 'https://source.unsplash.com/VwFR0ruXR3g/2000x1322?a=.png'
+author.image: 'images/wooly.jpg'
 ---
 <header style="background-image: url({% include relative-src.html src=page.header_background_image %});">
 	<div class="container">
 		<h1 class="editable">Cambodia Mission 2017</h1>
 		<div class="button">
-			<a href="#donate">Donate Today</a>
+			<a href="#newsletter">Join Us Today</a>
 		</div>
 	</div>
 	<div class="learn-more"><a href="#learn-more">Learn more <span class="arrow">&#x25BC;</span></a></div>
@@ -43,7 +44,7 @@ newsletter_background_image: 'https://source.unsplash.com/VwFR0ruXR3g/2000x1322?
 <section>
 	<div class="container mission">
 		<h2 class="editable">Our Mission</h2>
-		<p class="editable"><img alt="mission" width="200" height="134" src="https://source.unsplash.com/9fQDKybDgqk/200x134" />"Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit" - Matthew 28:19<br /><br />In short our mission is to learn about what God is doing in Cambodia and be part of his work there, especially among the young population of the country through partnerships with the local churches and missionaries.<br /><br />Our team first went to Cambodia during the winter break of 2014 and has gone back every winter break since then. Many of the team members have been involved in children, youth and young adult ministries. And God has opened doors for us in Cambodia to work with local churches and ministries that reach out to these same groups of people &ndash; the young who are the future of the country.<br /><br />The reason we go during the winter break is that we would like to have university students join the trip.<br /><br />For each team member, this short mission trip is a part of our discipleship journey as a disciple of Jesus. We follow the examples of Jesus, and the early Christians such as Paul, Peter, Timothy, who were willing to share the gospel with those who are different from them in an unfamiliar environment.<br /><br />This mission trip is such a transforming journey. On the one hand, we &ndash; the goers - are being transformed. We go there with an open heart and attitude to learn through what we see, the individuals we listen to, and all that we pray for. On the other hand, by God&rsquo;s grace we are transforming lives there through our visiting, sharing, listening, and praying.</p>
+		<p class="editable"><img alt="mission" width="300" height="202" src="https://source.unsplash.com/WBMPlClVp10/300x202" />"Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit" - Matthew 28:19<br /><br />In short our mission is to learn about what God is doing in Cambodia and be part of his work there, especially among the young population of the country through partnerships with the local churches and missionaries.<br /><br />Our team first went to Cambodia during the winter break of 2014 and has gone back every winter break since then. Many of the team members have been involved in children, youth and young adult ministries. And God has opened doors for us in Cambodia to work with local churches and ministries that reach out to these same groups of people &ndash; the young who are the future of the country.<br /><br />The reason we go during the winter break is that we would like to have university students join the trip.<br /><br />For each team member, this short mission trip is a part of our discipleship journey as a disciple of Jesus. We follow the examples of Jesus, and the early Christians such as Paul, Peter, Timothy, who were willing to share the gospel with those who are different from them in an unfamiliar environment.<br /><br />This mission trip is such a transforming journey. On the one hand, we &ndash; the goers - are being transformed. We go there with an open heart and attitude to learn through what we see, the individuals we listen to, and all that we pray for. On the other hand, by God&rsquo;s grace we are transforming lives there through our visiting, sharing, listening, and praying.</p>
 	</div>
 </section>
 <!--
@@ -62,7 +63,7 @@ newsletter_background_image: 'https://source.unsplash.com/VwFR0ruXR3g/2000x1322?
 </section>
 -->
 
-<section class="newsletter" style="background-image: url({% include relative-src.html src= page.newsletter_background_image %});">
+<section id="newsletter" class="newsletter" style="background-image: url({% include relative-src.html src= page.newsletter_background_image %});">
 	<div class="container">
 		<h2 class="editable">Join us</h2>
 		<p class="editable">Sign up to hear the latest news and progress in our mission in Cambodia.</p>
@@ -92,7 +93,7 @@ newsletter_background_image: 'https://source.unsplash.com/VwFR0ruXR3g/2000x1322?
 			{% assign author = site.staff_members | where: "url", author_id | first %}
 			<div class="post">
 				<div class="post-title">
-					<img src="{% include relative-src.html src=author.image %}" alt="Photo of {{ author.name }}" width="50" height="50" />
+					<img src="images/wooly.jpg" alt="NA" width="50" height="50" />
 					<h3>{{ post.title }}</h3>
 					<p class="date">{{ post.date | date: '%B %d, %Y' }}</p>
 				</div>
