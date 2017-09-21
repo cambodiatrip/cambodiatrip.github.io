@@ -24,3 +24,5 @@ defaults:
 #donation_embed: '<script src="https://donorbox.org/widget.js" type="text/javascript"></script><iframe src="https://donorbox.org/embed/give-sheep-the-vote?hide_donation_meter=true" height="685px" width="100%" style="max-width:425px; min-width:310px" seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0" scrolling="no"></iframe>'
 donation_embed: '<script id="ch_cdn_embed" type="text/javascript" data-page-id="31866" data-cfasync="false" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>'
 newsletter_action: "//samaritanspurse.us8.list-manage.com/subscribe/post?u=690a2902e67269d60406e6b56&amp;id=f507ab4234"
+
+plugins: [jekyll-youtube]
