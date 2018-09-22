@@ -21,5 +21,6 @@ defaults:
     values:
       layout: "default"
 
-donation_embed: '<script id="ch_cdn_embed" type="text/javascript" data-page-id="35706" data-cfasync="false" data-formtype="0" src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"></script>'
+donation_one_dollar_a_day: '<A HREF="https://www.canadahelps.org/en/pages/page/new/?charity=109462&fund=222531"><IMG SRC="https://www.canadahelps.org/image/FundRaiseNow/en/FundRaiseNow3.png" BORDER="0" ALT="Fundraise Now Through CanadaHelps.org!"/></A>'
+donation_mission_donation: '<A HREF="https://www.canadahelps.org/en/pages/page/new/?charity=109462&fund=225313"><IMG SRC="https://www.canadahelps.org/image/FundRaiseNow/en/FundRaiseNow1.png" BORDER="0" ALT="Fundraise Now Through CanadaHelps.org!"/></A>'
 newsletter_action: "//samaritanspurse.us8.list-manage.com/subscribe/post?u=690a2902e67269d60406e6b56&amp;id=f507ab4234"
