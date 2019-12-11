@@ -5,7 +5,7 @@ date: 2019-12-10 00:00:00
 ---
 
 
-We have formed the official team for our 2019-2020 trip, and are excited about the upcoming trip! P
+We have formed the official team for our 2019-2020 trip, and are excited about the upcoming trip!
 
 ![Grass]({{ site.url }}/images/cambodia_team6.jpeg)
 <!-- [Download Application Form](/Cambodia_Application_Form_2019.pdf) -->
